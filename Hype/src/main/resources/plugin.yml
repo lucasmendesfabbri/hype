@@ -1,0 +1,7 @@
+name: Hype
+version: 0.0.1-SNAPSHOT
+author: headbnns
+main: br.com.hype_mc.pvp.Hype
+commands:
+  acc:
+  group:
